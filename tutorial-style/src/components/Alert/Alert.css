@@ -1,0 +1,20 @@
+.alert-wrapper {
+    padding: 15px;
+    margin-bottom: 15px;
+    color:rgb(7, 7, 7);
+   }
+.alert-wrapper > h2 {
+    margin: 0 0 10px 0;
+   }
+.alert-wrapper.success {
+    border: #0ef13f solid 5px;
+   }
+   .success > h2 {
+    color: #0edb1f;
+   }
+   .alert-wrapper.error {
+    border: #e41d1a solid 5px;
+   }
+   .error > h2 {
+    color: #e6231f;
+   }

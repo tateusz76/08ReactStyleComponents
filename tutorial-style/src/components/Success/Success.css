@@ -1,0 +1,7 @@
+.success-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+   }
+   .success-wrapper h2 {
+    width: 100%;
+   }
